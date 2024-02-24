@@ -10,11 +10,6 @@ CORS(app)
 @app.route('/filter', methods=['POST'])
 def hello():
     request_body = request.json
-    response_data = {
-        'status': 'success',
-        'message': 'Data received successfully',
-        'data': request_body
-    }
     return jsonify(request_body)
 
 
