@@ -1,100 +1,513 @@
     Bland
     Tasteless
-    Undercooked
-    Overcooked
     Stale
-    Rancid
     Soggy
     Greasy
-    Oily
+    Unappetizing
+    Flavorless
     Dry
+    Overcooked
+    Undercooked
+    Rancid
+    Spoiled
+    Burnt
+    Tough
+    Shit
+    Shitty
+    Rubbery
+    Watery
+    Stodgy
+    Mushy
+    Gritty
+    Mismatched
+    Unpalatable
+    Lumpy
+    Disgusting
+    Sickening
+    Repulsive
+    Offensive
+    Foul
+    Putrid
+    Rank
+    Nauseating
+    Vile
+    Nasty
+    Unhygienic
+    Dirty
+    Contaminated
+    Moldy
+    Stale
+    Sourdough
+    Bitter
+    Sour
+    Salty
+    Fishy
+    Chemical
+    Artificial
+    Preserved
+    Processed
+    Frozen
+    Packaged
+    Canned
+    Dull
+    Monotonous
+    Repetitive
+    Uninspired
+    Crap
+    Crappy
+    Mediocre
+    Suck
+    Sucks
+    Lackluster
+    Subpar
+    Poor-quality
+    Inferior
+    Second-rate
+    Shoddy
+    Cheap
+    Tasteless
+    Insipid
+    Blah
+    Meh
+    Horrible
+    Awful
+    Terrible
+    Dreadful
+    Abysmal
+    Disappointing
+    Unpleasant
+    Unappetizing
+    Unappealing
+    Unappealing
+    Unattractive
+    Disgusting
+    Gross
+    Vile
+    Putrid
+    Stomach-turning
+    Sickening
+    Nauseating
+    Repulsive
+    Off-putting
+    Offensive
+    Inedible
+    Unfit
+    Gross
+    Yucky
+    Horrid
+    Foul
+    Rancid
+    Nasty
+    Tart
+    Vinegary
+    Astringent
+    Acrid
+    Pungent
+    Sharp
+    Peppery
+    Dirty
+    Burnt
+    Charred
+    Singed
+    Scorched
+    Smoky
+    Overdone
+    Underdone
+    Raw
     Tough
     Chewy
+    Stringy
+    Gristly
+    Sinewy
+    Fibrous
+    Hard
+    Dense
+    Gummy
+    Gelatinous
+    Rubbery
     Mushy
-    Burnt
+    Soggy
+    Watery
+    Thin
+    Runny
+    Soupy
+    Oily
+    Greasy
+    Fatty
+    Slick
+    Slimy
+    Waxy
+    Clammy
+    Spongy
+    Foamy
+    Frothy
+    Flat
+    Bitter
+    Acrid
+    Sour
+    Acidic
+    Vinegary
+    Tart
+    Pungent
+    Tangy
+    Astringent
+    Harsh
+    Sharp
+    Metallic
+    Chemical
+    Synthetic
+    Artificial
+    Preserved
+    Processed
+    Packaged
+    Frozen
+    Canned
+    Stale
+    Rotten
+    Spoiled
+    Moldy
+    Musty
+    Mildewed
+    Decayed
+    Off
+    Foul
+    Fetid
+    Putrid
+    Rank
+    Rancid
     Sour
     Bitter
+    Acidic
     Salty
-    Watery
-    Smelly
-    Spoiled
-    Frozen
-    Unappetizing
-    Unpleasant
-    Disgusting
-    Disappointing
-    Unpalatable
-    Uninspired
-    Mediocre
-    Poorly seasoned
-    Lacking flavor
-    Boring
-    Repulsive
-    Gross
-    Off-putting
-    Unsatisfying
-    Foul
-    Flavorless
-    Badly prepared
-    Stodgy
-    Unappealing
-    Repugnant
+    Fishy
     Stinky
-    Unfresh
-    Bitter aftertaste
-    Poorly cooked
-    Poor quality
+    Malodorous
+    Stinky
+    Fishy
+    Strong
+    Intense
+    Overpowering
+    Overwhelming
+    Cloying
+    Sickly
+    Sugary
+    Sweet
+    Saccharine
+    Syrupy
+    Cloyingly
     Heavy
-    Unbalanced
-    Disgustingly sweet
-    Unhygienic
-    Inedible
+    Fatty
+    Rich
+    Greasy
+    Buttery
+    Slick
+    Oily
+    Lardy
+    Saturated
+    Indigestible
+    Heavy
+    Cloying
+    Sludgy
+    Sticky
+    Gummy
+    Gooey
+    Gelatinous
+    Dense
+    Glutinous
+    Claggy
+    Lumpy
+    Granular
+    Grubby
+    Unclean
+    Grimy
+    Filthy
+    Mucky
+    Muddy
+    Squalid
+    Seedy
+    Gritty
+    Unsanitary
+    Contaminated
+    Putrid
+    Sour
+    Stale
+    Spoiled
+    Rotten
     Moldy
-    Burned
-    Unseasoned
-    Served cold
-    Served hot
-    Limp
+    Mildewed
+    Musty
+    Decayed
+    Foul
+    Fetid
+    Stinky
+    Malodorous
+    Stinky
+    Fishy
+    Pungent
+    Rancid
+    Putrid
+    Sour
+    Bitter
+    Acidic
+    Salty
+    Fishy
+    Stinky
+    Strong
+    Intense
+    Overpowering
+    Overwhelming
+    Cloying
+    Sickly
+    Sugary
+    Sweet
+    Saccharine
+    Syrupy
+    Cloyingly
+    Heavy
+    Fatty
+    Rich
+    Greasy
+    Buttery
+    Slick
+    Oily
+    Lardy
+    Saturated
+    Indigestible
+    Heavy
+    Cloying
+    Sludgy
+    Sticky
+    Gummy
+    Gooey
+    Gelatinous
+    Dense
+    Glutinous
+    Claggy
+    Lumpy
+    Granular
+    Grubby
+    Unclean
+    Grimy
+    Filthy
+    Mucky
+    Muddy
+    Squalid
+    Seedy
+    Gritty
+    Unsanitary
+    Contaminated
+    Insipid
     Tasteless
-    Flavorless
-    Served inappropriately
-    Uninspired menu
-    Lackluster presentation
     Dull
+    Bland
+    Boring
+    Monotonous
+    Uninteresting
+    Plain
+    Featureless
+    Unexciting
+    Unvaried
+    Uneventful
+    Lifeless
+    Dry
+    Flat
+    Vapid
+    Drab
+    Uninspired
     Unimpressive
-    Uncomfortable atmosphere
-    Unfriendly service
-    Slow service
-    Overpriced
-    Rip-off
-    Tasteless decor
+    Lame
+    Tedious
+    Tiresome
+    Wearisome
+    Prosaic
+    Sterile
+    Stale
+    Lukewarm
+    Halfhearted
+    Lackluster
+    Spiritless
+    Anemic
+    Watery
+    Dull
+    Insipid
+    Unappealing
+    Unattractive
+    Displeasing
+    Offensive
+    Bitter
+    Sour
+    Pungent
+    Stale
+    Flat
+    Rancid
+    Fetid
+    Muddy
+    Soggy
+    Slimy
+    Greasy
+    Oily
+    Scummy
+    Slick
+    Stinky
+    Fishy
+    Moldy
+    Stale
+    Spoiled
+    Rotten
+    Rancid
+    Musty
+    Mildewed
+    Foul
+    Fetid
+    Stinky
+    Malodorous
+    Off
+    Fusty
+    Sour
+    Stale
+    Flat
+    Off
+    Off-putting
+    Sickening
+    Rancid
+    Spoiled
+    Rotten
+    Mouldy
+    Musty
+    Mildewed
+    Muggy
+    Oppressive
+    Close
+    Stuffy
+    Sultry
+    Clammy
+    Sticky
+    Damp
+    Moist
+    Wet
+    Humid
+    Soggy
+    Mucky
+    Slushy
+    Squelchy
+    Swampy
+    Boggy
+    Dank
+    Sodden
+    Soaked
+    Waterlogged
+    Drenched
+    Bedraggled
+    Clammy
+    Sticky
+    Slimy
+    Greasy
+    Oily
+    Slippery
+    Slick
+    Muddy
+    Miry
+    Mucky
+    Grubby
+    Filthy
+    Squalid
+    Unclean
+    Soiled
     Dirty
-    Unsanitary conditions
-    Rude staff
-    Unwelcoming ambiance
-    Noise level too high
-    Poorly lit
-    Crowded
-    Bad location
-    Lack of variety
-    Limited options
-    Poor portion size
-    Inconsistent quality
-    Tasteless beverages
-    Watery drinks
-    Stale bread
-    Soggy fries
-    Small portions
-    Lousy drinks
-    Overly salty
-    Uncooked vegetables
-    Low-quality ingredients
-    Frozen desserts
-    Bland sauces
-    Overly processed
-    Unappetizing appearance
-    Uninspired menu options
-    Unauthentic cuisine
-    Poorly executed dishes
-    Lack of creativity
-    Unpleasant aftertaste
+    Dusty
+    Dingy
+    Grimy
+    Grotty
+    Crummy
+    Miserable
+    Disgusting
+    Repugnant
+    Revolting
+    Abhorrent
+    Appalling
+    Gross
+    Ghastly
+    Rude
+    Gruesome
+    Hideous
+    Horrific
+    Nasty
+    Vile
+    Odious
+    Repulsive
+    Foul
+    Fetid
+    Putrid
+    Stinking
+    Malodorous
+    Noxious
+    Unpleasant
+    Distasteful
+    Displeasing
+    Repellent
+    Repugnant
+    Offensive
+    Nauseating
+    Sickening
+    Disgusting
+    Abominable
+    Obnoxious
+    Offensive
+    Nasty
+    Vulgar
+    Tasteless
+    Dull
+    Insipid
+    Boring
+    Bad
+    Banal
+    Trite
+    Stale
+    Dated
+    Outdated
+    Tired
+    Hackneyed
+    Clichéd
+    Overused
+    Worn-out
+    worst
+    Worse
+    Unoriginal
+    Predictable
+    Stiff
+    Formal
+    Uninspired
+    Unimaginative
+    Lame
+    Limp
+    Lacking
+    Lousy
+    Mediocre
+    Poor
+    Inferior
+    Substandard
+    Shoddy
+    Cheap
+    Trash
+    Trashy
+    Tacky
+    Naff
+    Crummy
+    Cheesy
+    Schlocky
+    Blows
+    Corny
+    Pompous
+    Pretentious
+    Overblown
+    Reeks
+    Bombastic
+    Grandiose
+    Highfalutin
+    Puffed-up
+    Self-important
+    Self-aggrandizing
+    Arrogant
+    Boastful
+    Conceited
+    Egotistical
