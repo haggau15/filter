@@ -8,6 +8,13 @@ app = Flask(__name__)
 CORS(app)
 
 
+# toBeDone
+@app.route('/comment/low', methods=['POST'])
+def comment_low():
+    request_body = request.json
+
+    return jsonify(request_body)
+
 @app.route('/filter/high', methods=['POST'])
 def high_to_low():
     request_body = request.json
@@ -31,7 +38,8 @@ def low_to_high():
 
     return jsonify(request_body)
 
-#Sorts resturants by their reviews from worst to best
+
+# Sorts resturants by their reviews from worst to best
 @app.route('/filter/comments/low', methods=['POST'])
 def comments_low():
     request_body = request.json
@@ -44,7 +52,7 @@ def comments_low():
     return jsonify(request_body)
 
 
-#Sorts resturants by their reviews from best to worst
+# Sorts resturants by their reviews from best to worst
 @app.route('/filter/comments/high', methods=['POST'])
 def comments_high():
     request_body = request.json
@@ -64,7 +72,8 @@ def get_comment_score(request_body):
     # Adds the score from how negative the comments are as a variable in the jsonobject
     for place in request_body:  # Contains every resturant for one area
         for review in place['reviews']:  # Contains 5 reviews for every resturant
-            for word in json.loads(review)['text'].split():  # Checks every word of each review to a list of negative words
+            for word in json.loads(review)[
+                'text'].split():  # Checks every word of each review to a list of negative words
                 if word.lower() in words:
                     counter += 1
         place['comment_score'] = counter
